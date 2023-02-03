@@ -1,0 +1,20 @@
+,year,driverId,driverName,avg_starting_position
+0,2004,30,Michael Schumacher,3.4444444444444446
+1,2005,4,Fernando Alonso,3.9444444444444446
+2,2006,4,Fernando Alonso,4.333333333333333
+3,2007,8,Kimi Räikkönen,3.588235294117647
+4,2008,1,Lewis Hamilton,3.0555555555555554
+5,2009,18,Jenson Button,5.0625
+6,2010,20,Sebastian Vettel,2.0
+7,2011,20,Sebastian Vettel,1.2777777777777777
+8,2012,20,Sebastian Vettel,4.25
+9,2013,20,Sebastian Vettel,2.0526315789473686
+10,2014,1,Lewis Hamilton,3.9473684210526314
+11,2015,1,Lewis Hamilton,1.5789473684210527
+12,2016,3,Nico Rosberg,1.6
+13,2017,1,Lewis Hamilton,3.4
+14,2018,1,Lewis Hamilton,2.4761904761904763
+15,2019,1,Lewis Hamilton,2.2857142857142856
+16,2020,1,Lewis Hamilton,1.6875
+17,2021,830,Max Verstappen,2.95
+18,2022,830,Max Verstappen,2.8461538461538463
